@@ -1,0 +1,6 @@
+{
+  "name": "Resource DNA",
+  "description": "The Building Blocks of Every Breakthrough. A scientific resource-sharing platform connecting researchers, students, laboratory resource providers, and delivery partners.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
